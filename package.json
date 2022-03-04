@@ -1,0 +1,17 @@
+{
+  "name": "marble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@marblejs/core": "^4.0.3",
+    "@marblejs/http": "^4.0.3",
+    "fp-ts": "^2.11.8",
+    "rxjs": "^7.5.4"
+  }
+}
